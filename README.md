@@ -1,6 +1,6 @@
 # Automatic Tweet Mention Recommendation in X for Reporting Civic Issues - Case Study based on Mumbai City, India
 
-This repository contains the code implementation for the paper "Automatic Tweet Mention Recommendation in X for Reporting Civic Issues - Case Study based on Mumbai City, India" by Aayush Patel ([Linkedin](https://www.linkedin.com/in/aayushpatel006), [Github](https://github.com/AayushPatel006)), Chaitya Dobariya ([Linkedin](https://www.linkedin.com/in/chaitya-dobariya/), [Github](https://github.com/Chaitya02)), Dayanand Ambawade ([Linkedin](https://www.linkedin.com/in/dayanand-ambawade-a491a754)), Dhawal Thakkar ([Linkedin](https://www.linkedin.com/in/dhawal-thakkar-759839140)) and P. Balamurugan ([Linkedin](https://www.linkedin.com/in/balamurugan-palaniappan-75b407b5)), accepted by 10th IEEE INTERNATIONAL SMART CITIES CONFERENCE 2024.
+This repository contains the code implementation for the paper "[Automatic Tweet Mention Recommendation in X for Reporting Civic Issues - Case Study based on Mumbai City, India](https://ieeexplore.ieee.org/document/11004257)" by Aayush Patel ([Linkedin](https://www.linkedin.com/in/aayushpatel006), [Github](https://github.com/AayushPatel006)), Chaitya Dobariya ([Linkedin](https://www.linkedin.com/in/chaitya-dobariya/), [Github](https://github.com/Chaitya02)), Dayanand Ambawade ([Linkedin](https://www.linkedin.com/in/dayanand-ambawade-a491a754)), Dhawal Thakkar ([Linkedin](https://www.linkedin.com/in/dhawal-thakkar-759839140)) and P. Balamurugan ([Linkedin](https://www.linkedin.com/in/balamurugan-palaniappan-75b407b5)), accepted by 10th IEEE INTERNATIONAL SMART CITIES CONFERENCE 2024.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,6 +13,7 @@ This repository contains the code implementation for the paper "Automatic Tweet 
   - [Browser Plugin Integration](#browser-plugin-integration)
   - [Government Portal Usage](#government-portal-usage)
   - [Dataset Collection for a New City](#dataset-collection-for-a-new-city)
+- [Citation](#Citation)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -54,8 +55,7 @@ The system utilizes advanced natural language processing techniques, including a
 
 ## Demo Videos
 
-- [X Browser Plugin Demo](https://bit.ly/3YL2tTU)
-- [Department Portal Demo](https://bit.ly/3YL2tTU)
+- [Full Demo](https://bit.ly/3YL2tTU)
 
 ## Technologies Used
 
@@ -189,6 +189,10 @@ To deploy the system in a new city, follow these steps for dataset collection an
 <!-- ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. -->
+
+## Citation
+
+If you use this code in your research, please cite our paper.
 
 ## Acknowledgements
 
