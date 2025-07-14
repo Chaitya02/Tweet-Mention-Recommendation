@@ -55,7 +55,7 @@ The system utilizes advanced natural language processing techniques, including a
 
 ## Demo Videos
 
-- [Full Demo](https://bit.ly/3YL2tTU)
+- [Full Demo]([https://bit.ly/3YL2tTU](https://drive.google.com/file/d/1f8Utsfpx-VR4Itvxuvqb5RWMYWGJYR_1/view?usp=drive_link))
 
 ## Technologies Used
 
