@@ -6,7 +6,7 @@ This repository contains the code implementation for the paper "[Automatic Tweet
 - [Introduction](#introduction)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Demo Videos](#demo-videos)
+- [Demo Video](#demo-video)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
   - [Running Training Code](#running-training-code)
@@ -53,9 +53,9 @@ The system utilizes advanced natural language processing techniques, including a
   - `custom_bert_model.ipynb`: Implementation and training of the custom BERT model
 - `tweet_generation_prompt.txt`: Prompts used for generating synthetic tweet dataset
 
-## Demo Videos
+## Demo Video
 
-- [Full Demo]([https://bit.ly/3YL2tTU](https://drive.google.com/file/d/1f8Utsfpx-VR4Itvxuvqb5RWMYWGJYR_1/view?usp=drive_link))
+- [Full Demo](https://drive.google.com/file/d/1f8Utsfpx-VR4Itvxuvqb5RWMYWGJYR_1/view?usp=drive_link)
 
 ## Technologies Used
 
